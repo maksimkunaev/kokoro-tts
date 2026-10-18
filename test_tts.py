@@ -1,6 +1,5 @@
 from kokoro import KPipeline
 import soundfile as sf
-import torch
 import os
 
 # Change working directory to the script's directory
